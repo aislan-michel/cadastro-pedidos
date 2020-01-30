@@ -1,0 +1,21 @@
+C:\Users\User\Documents\C#\Exercicios\Pedido\Pedido\bin\Debug\netcoreapp2.1\Pedido.deps.json
+C:\Users\User\Documents\C#\Exercicios\Pedido\Pedido\bin\Debug\netcoreapp2.1\Pedido.runtimeconfig.json
+C:\Users\User\Documents\C#\Exercicios\Pedido\Pedido\bin\Debug\netcoreapp2.1\Pedido.runtimeconfig.dev.json
+C:\Users\User\Documents\C#\Exercicios\Pedido\Pedido\bin\Debug\netcoreapp2.1\Pedido.dll
+C:\Users\User\Documents\C#\Exercicios\Pedido\Pedido\bin\Debug\netcoreapp2.1\Pedido.pdb
+C:\Users\User\Documents\C#\Exercicios\Pedido\Pedido\obj\Debug\netcoreapp2.1\Pedido.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#\Exercicios\Pedido\Pedido\obj\Debug\netcoreapp2.1\Pedido.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\Exercicios\Pedido\Pedido\obj\Debug\netcoreapp2.1\Pedido.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#\Exercicios\Pedido\Pedido\obj\Debug\netcoreapp2.1\Pedido.AssemblyInfo.cs
+C:\Users\User\Documents\C#\Exercicios\Pedido\Pedido\obj\Debug\netcoreapp2.1\Pedido.dll
+C:\Users\User\Documents\C#\Exercicios\Pedido\Pedido\obj\Debug\netcoreapp2.1\Pedido.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\C#\Exercicios\Pedido\Pedido\bin\Debug\netcoreapp2.1\Pedido.deps.json
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\C#\Exercicios\Pedido\Pedido\bin\Debug\netcoreapp2.1\Pedido.runtimeconfig.json
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\C#\Exercicios\Pedido\Pedido\bin\Debug\netcoreapp2.1\Pedido.runtimeconfig.dev.json
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\C#\Exercicios\Pedido\Pedido\bin\Debug\netcoreapp2.1\Pedido.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\C#\Exercicios\Pedido\Pedido\bin\Debug\netcoreapp2.1\Pedido.pdb
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\C#\Exercicios\Pedido\Pedido\obj\Debug\netcoreapp2.1\Pedido.csprojAssemblyReference.cache
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\C#\Exercicios\Pedido\Pedido\obj\Debug\netcoreapp2.1\Pedido.AssemblyInfoInputs.cache
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\C#\Exercicios\Pedido\Pedido\obj\Debug\netcoreapp2.1\Pedido.AssemblyInfo.cs
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\C#\Exercicios\Pedido\Pedido\obj\Debug\netcoreapp2.1\Pedido.dll
+D:\Users\Sistema de arquivos\Documents\aq\Projetos\C#\Exercicios\Pedido\Pedido\obj\Debug\netcoreapp2.1\Pedido.pdb
